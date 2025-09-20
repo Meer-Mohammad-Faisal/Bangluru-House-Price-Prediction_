@@ -8,7 +8,7 @@ import pandas as pd
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder 
 import joblib
 
 # %%
